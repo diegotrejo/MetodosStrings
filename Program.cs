@@ -197,7 +197,7 @@ namespace MetodosStrings
             string letras = "aeiouAEIOUáéíóúÁÉÍÓÚbcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZñÑ";
             string digitos = "0123456789";
             string especiales = " .,!";
-
+             
             int qtyLetras = 0, qtyDigitos = 0, qtyEspeciales = 0;
 
             for (int i = 0; i < texto.Length; i++)
